@@ -22,7 +22,7 @@
 
 ## `$ cat experience`
 
-- 🛡️ **Sejm of the Republic of Poland** — IT Center, *Cybersecurity Department* (internship, 2026)
+- 🛡️ **Sejm of the Republic of Poland** (*Parliament of Poland — public administration*) — IT Center, *Cybersecurity Department* (internship)
 - 🖥️ **Warsaw University of Technology** — IT Service Desk & endpoint provisioning (internship, 2x, in 2023 & 2024)
 
 ----------
