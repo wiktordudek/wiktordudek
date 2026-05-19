@@ -46,4 +46,4 @@
 ## `$ cat languages`
 
 - 🇵🇱 Polish (native)
-- 🇬🇧 English (B2)
+- 🇬🇧 English
